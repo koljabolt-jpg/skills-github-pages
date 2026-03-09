@@ -1,3 +1,3 @@
 ---
-title: Welcome to my blog!
+title: kolja's portfolio will appear here later!
 ---
